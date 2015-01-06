@@ -1,0 +1,3 @@
+[submodule "Agares.Engine"]
+	path = Agares.Engine
+	url = https://github.com/Agares/Agares.Engine
